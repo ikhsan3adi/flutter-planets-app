@@ -1,16 +1,30 @@
-# my_planets_app
+# MyPlanetsApp
 
-A new Flutter project.
+## A Responsive Multi-Platform Flutter App to show list of item
 
-## Getting Started
+My seecond litle app project using Flutter framework
 
-This project is a starting point for a Flutter application.
+## Homepage Planet list
 
-A few resources to get you started if this is your first Flutter project:
+Show planet list with favourite button after the title
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Mobile / potrait view
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](/Screenshot/Screenshot_20220924-100050_MyPlanetsApp.png?raw=true "Planet list")
+
+### Desktop & Tablet / Landscape view
+
+![Alt text](/Screenshot/Screenshot_20220924-100121_MyPlanetsApp.png?raw=true "Planet list")
+
+
+## Planet detail page
+
+Show about the planet with full image and favourite + share button
+
+### Mobile / potrait view
+
+![Alt text](/Screenshot/Screenshot_20220924-100108_MyPlanetsApp.png?raw=true "Planet detail")
+
+### Desktop & Tablet / Landscape view
+
+![Alt text](/Screenshot/Screenshot_20220924-100138_MyPlanetsApp.png?raw=true "Planet list")
