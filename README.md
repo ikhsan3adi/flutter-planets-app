@@ -1,8 +1,6 @@
 # Planets App
 
-## A Responsive Multi-Platform Flutter App to show list of item
-
-My second litle app project using Flutter framework
+A Responsive Multi-Platform Flutter App to show list of items.
 
 ## Screenshots
 
